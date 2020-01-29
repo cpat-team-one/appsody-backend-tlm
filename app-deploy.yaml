@@ -58,7 +58,7 @@ metadata:
     stack.appsody.dev/id: nodejs-express
     stack.appsody.dev/version: 0.2.8
   name: appsody-backend-tlm
-  namespace: default
+  namespace: dev-tlm
 spec:
   applicationImage: dev.local/appsody-backend-tlm
   createKnativeService: false
